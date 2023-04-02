@@ -2,7 +2,7 @@
 
 Repository for Genealogical Stories, Biographies, and Images. 
 
-[MILLS, Lucious and Mamie](./docs/MILLS-Lucious.md)
+<a href="./docs/MILLS-Lucious.html">MILLS, Lucious and Mamie</a>
 
 
 Kirk Stephens
